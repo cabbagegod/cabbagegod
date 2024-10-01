@@ -1,3 +1,5 @@
+<p align="center">Game Developer | .NET Developer | Modder</p>
+
 <p align="center" width="100%">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=cabbagegod&theme=radical&show_icons=true&hide_border=false&count_private=true" />
 </p>
